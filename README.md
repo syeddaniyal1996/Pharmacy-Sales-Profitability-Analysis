@@ -1,4 +1,5 @@
 # Pharmacy-Sales-Profitability-Analysis
+# Onyx DataDNA Dataset January 2026
 This repository contains an interactive Pharmacy Sales &amp; Profitability Analysis dashboard developed for the Onyx Data DNA Challenge. The project focuses on uncovering actionable insights from pharmaceutical retail data across Europe, with a strong emphasis on revenue performance, cost structure, profitability, and promotional effectiveness.
 
 𝐏𝐫𝐨𝐣𝐞𝐜𝐭 𝐎𝐯𝐞𝐫𝐯𝐢𝐞𝐰:
