@@ -1,5 +1,9 @@
-# Pharmacy-Sales-Profitability-Analysis (https://app.powerbi.com/view?r=eyJrIjoiOTQ1ZTQyODgtN2FhMi00MGZiLTllOWQtNTdlNDUzY2RjZTJkIiwidCI6IjQ2NTRiNmYxLTBlNDctNDU3OS1hOGExLTAyZmU5ZDk0M2M3YiIsImMiOjl9)
+# Pharmacy-Sales-Profitability-Analysis 
+
+(https://app.powerbi.com/view?r=eyJrIjoiOTQ1ZTQyODgtN2FhMi00MGZiLTllOWQtNTdlNDUzY2RjZTJkIiwidCI6IjQ2NTRiNmYxLTBlNDctNDU3OS1hOGExLTAyZmU5ZDk0M2M3YiIsImMiOjl9)
+
 # Onyx DataDNA Dataset January 2026
+
 This repository contains an interactive Pharmacy Sales &amp; Profitability Analysis dashboard developed for the Onyx Data DNA Challenge. The project focuses on uncovering actionable insights from pharmaceutical retail data across Europe, with a strong emphasis on revenue performance, cost structure, profitability, and promotional effectiveness.
 
 𝐏𝐫𝐨𝐣𝐞𝐜𝐭 𝐎𝐯𝐞𝐫𝐯𝐢𝐞𝐰:
